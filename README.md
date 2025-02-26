@@ -3,7 +3,7 @@
 ## About Me
 - 👨🏻‍💻 Blanco Sombrero / Cybersecurity Specialist / DevOps ♾️
 - 🕵️ Always learning & building cool Pentest things 😉
-- 👾 I'm looking to collaborate and learn from others in the community and build cool cyber things with others 💥
+- 👾 I'm looking to collaborate and learn from others in the community and build cool cyber things 💥
 
 ## 🛠️ Technologies & Tools
 
